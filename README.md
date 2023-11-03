@@ -34,6 +34,8 @@ https://github.com/zveres-ss/algo_and_data_structures_course/tree/main
 
 * TASK:
 
+https://docs.google.com/document/d/16CjrPcgNOjS5e-gQVoijt8fjM4btQdi12OMVsX2LflA/edit
+
 1 variant level 3
 
 * Branch: https://github.com/serejek2004/AlgoLabs/tree/fourth_lab
