@@ -1,41 +1,24 @@
-# AlgoLabs
+# Лабораторні роботи з дисципліни "Алгоритми та структури даних"
 
-## first_lab:
+## Виконав: Бац Сергій Васильович (Група ІР-22)
 
-* TASK:
+### Лабораторна робота №1 (Варіант 10)
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/first_lab)
 
-1 variant level 2 & 3
+***
+### Лабораторна робота №2 (Варіант 10)
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/second_lab)
 
-https://github.com/zveres-ss/algo_and_data_structures_course/tree/main
+***
+### Лабораторна робота №3 (Варіант 10)
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/third_lab)
 
-* Branch: https://github.com/serejek2004/AlgoLabs/tree/first_lab
+***
+### Лабораторна робота №4 (Варіант 10)
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/fourth_lab)
 
-## second_lab
+***
+### Лабораторна робота №5 (Варіант 10)
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/fifth_lab)
 
-* TASK:
-
-1 variant level 2 
-
-https://github.com/zveres-ss/algo_and_data_structures_course/tree/main
-
-* Branch: https://github.com/serejek2004/AlgoLabs/tree/second_lab
-
-## third_lab
-
-* TASK:
-
-1 variant level 2 
-
-https://github.com/zveres-ss/algo_and_data_structures_course/tree/main
-
-* Branch: https://github.com/serejek2004/AlgoLabs/tree/third_lab
-
-## fourth_lab
-
-* TASK:
-
-https://docs.google.com/document/d/16CjrPcgNOjS5e-gQVoijt8fjM4btQdi12OMVsX2LflA/edit
-
-1 variant level 3
-
-* Branch: https://github.com/serejek2004/AlgoLabs/tree/fourth_lab
+***
