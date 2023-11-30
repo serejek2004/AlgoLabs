@@ -22,3 +22,8 @@
 Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/fifth_lab)
 
 ***
+### Лабораторна робота №6
+Посилання на вітку [тут](https://github.com/serejek2004/AlgoLabs/tree/sixth_lab)
+
+***
+
